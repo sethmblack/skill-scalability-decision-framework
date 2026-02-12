@@ -1,11 +1,10 @@
 ---
 name: scalability-decision-framework
-description: Choose between approaches based on their ability to scale, transform,
-  and transmit effectively—applying Tesla's insight about why AC defeated DC.
+description: Choose between approaches based on their ability to scale, transform, and transmit effectively—applying Tesla's insight about why AC defeated DC.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - scalability-decision-framework-(ac-vs-dc)
 - structure
